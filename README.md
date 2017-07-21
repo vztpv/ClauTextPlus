@@ -1,5 +1,5 @@
 # ClauTextPlus
-    Goal :  Speed of ClauTextC and Stablility of ClauText?
+    Goal :  Speed of ClauTextC and Stability of ClauText?
     Using C++
 # Class (ToDo and Done)
     1. MyWrapper - Done

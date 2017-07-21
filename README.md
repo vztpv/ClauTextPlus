@@ -8,3 +8,5 @@
     4. (wiz_)array_queue - ToDo
     5. wiz_pair
     6. wiz_token
+    7. wiz_item_type
+    8. wiz_user_type
